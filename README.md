@@ -14,7 +14,7 @@ Hi! I'm **CYBER GOMZEE**. I am currently working as a **BUG BOUNTY HUNTER**. I a
 	 - Bug Bounty Bootcamp 
 	 - Hands on Bug Hunting 
 	 - Hacker's Playbook 3 
-   - Web Hacking 101
+      - Web Hacking 101
 	 - OWASP Mobile Testing Guide : https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide
-   - OWASP Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
+      - OWASP Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
 	 
